@@ -11,6 +11,7 @@
     {"id":{"name":"sWalls","path":"sprites/sWalls/sWalls.yy",},"order":6,},
     {"id":{"name":"sInvisibleWall","path":"sprites/sInvisibleWall/sInvisibleWall.yy",},"order":1,},
     {"id":{"name":"sBackground","path":"sprites/sBackground/sBackground.yy",},"order":8,},
+    {"id":{"name":"tWalls","path":"tilesets/tWalls/tWalls.yy",},"order":0,},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},"order":3,},
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},"order":1,},
     {"id":{"name":"Room0","path":"rooms/Room0/Room0.yy",},"order":0,},
