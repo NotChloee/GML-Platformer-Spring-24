@@ -60,3 +60,8 @@ else
 }
 
 if (hsp != 0) image_xscale = sign(hsp);
+
+//player reset
+if(bbox_bottom > room_height){
+	room_restart();
+} 
