@@ -65,3 +65,12 @@ if (hsp != 0) image_xscale = sign(hsp);
 if(bbox_bottom > room_height){
 	room_restart();
 } 
+
+//Travel to next room
+	repeat(4)
+	{if (x>room_width){
+		
+		room_goto_next();
+		
+	}
+	}
