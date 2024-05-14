@@ -67,7 +67,7 @@ if(bbox_bottom > room_height){
 } 
 
 //Travel to next room
-	repeat(4)
+	repeat(5)
 	{if (x>room_width){
 		
 		room_goto_next();
