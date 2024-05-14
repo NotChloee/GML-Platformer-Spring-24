@@ -15,3 +15,5 @@ A GML Starter kit for the **Platformer Tutorial (GML) - Parts 1 & 2**
 ## Credits
 The assets and video tutorials were created by [Shaun Spalding](https://www.youtube.com/c/ShaunSpalding).
 Check out Shaun's amazing collections of videos.
+
+I've added my own features to the game, such as more rooms, different player skin, changed the tiles and background, and camera movement. And I added a winners room once the player has completed the game.
